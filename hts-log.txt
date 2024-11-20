@@ -1,0 +1,382 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 17 Nov 2024 16:35:34 at https://boxsafe.com.au +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://boxsafe.com.au -O1 "C:\My Web Sites\Boxsafe" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:44:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://boxsafe.com.au/xmlrpc.php?rsd (from https://boxsafe.com.au/)
+16:47:17	Warning: 	Found for https://boxsafe.com.au/user-profile/
+16:47:17	Warning: 	Warning moved treated for https://boxsafe.com.au/user-profile/ (real one is https://boxsafe.com.au/)
+16:50:31	Error: 	"Bad Request" (400) at link https://boxsafe.com.au/wp-json/tribe/views/v2/html (from https://boxsafe.com.au/)
+16:52:15	Error: 	"Not Found" (404) at link https://boxsafe.com.au/wp-content/uploads/2024/09/vabl.png (from https://boxsafe.com.au/)
+16:53:27	Warning: 	Found for https://boxsafe.com.au/?add-to-cart=22169
+16:53:27	Warning: 	File has moved from https://boxsafe.com.au/?add-to-cart=22169 to https://boxsafe.com.au/cart/
+16:53:39	Warning: 	Found for https://boxsafe.com.au/?add-to-cart=16748
+16:53:39	Warning: 	File has moved from https://boxsafe.com.au/?add-to-cart=16748 to https://boxsafe.com.au/cart/
+16:53:47	Warning: 	Found for https://boxsafe.com.au/?add-to-cart=16746
+16:53:47	Warning: 	File has moved from https://boxsafe.com.au/?add-to-cart=16746 to https://boxsafe.com.au/cart/
+16:54:20	Error: 	"Not Found" (404) at link https://boxsafe.com.au/wp-content/uploads/2024/07/Flags-for-shirt-1.png (from https://boxsafe.com.au/)
+16:54:43	Error: 	"Forbidden" (403) at link https://boxsafe.com.au/wp-content/plugins/woocommerce-products-filter/ (from https://boxsafe.com.au/)
+16:54:43	Error: 	"Bad Request" (400) at link https://boxsafe.com.au/wp-admin/admin-ajax.php (from https://boxsafe.com.au/)
+16:54:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://boxsafe.com.au/xmlrpc.php?rsd (from https://boxsafe.com.au/)
+16:54:44	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=13976
+16:54:44	Warning: 	File has moved from https://boxsafe.com.au/?p=13976 to https://boxsafe.com.au/boxsafe-training-and-officiating/
+16:54:44	Warning: 	Found for https://boxsafe.com.au/boxsafe-training-and-officiating/?add-to-cart=22169
+16:54:44	Warning: 	File has moved from https://boxsafe.com.au/boxsafe-training-and-officiating/?add-to-cart=22169 to https://boxsafe.com.au/cart/
+16:56:58	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=7748
+16:56:58	Warning: 	File has moved from https://boxsafe.com.au/?p=7748 to https://boxsafe.com.au/expressions-of-interest/
+16:57:48	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=270
+16:57:48	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=270 to https://boxsafe.com.au/cart/
+16:57:56	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=2985
+16:57:56	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=2985 to https://boxsafe.com.au/cart/
+16:58:18	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=15347
+16:58:18	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=15347 to https://boxsafe.com.au/cart/
+16:58:28	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=5497
+16:58:28	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=5497 to https://boxsafe.com.au/cart/
+16:58:35	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=9707
+16:58:35	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=9707 to https://boxsafe.com.au/cart/
+16:58:42	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=5405
+16:58:42	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=5405 to https://boxsafe.com.au/cart/
+16:58:49	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=9681
+16:58:49	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=9681 to https://boxsafe.com.au/cart/
+16:58:49	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=22169
+16:58:49	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=22169 to https://boxsafe.com.au/cart/
+16:58:59	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=16672
+16:58:59	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=16672 to https://boxsafe.com.au/cart/
+16:59:06	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=16665
+16:59:06	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=16665 to https://boxsafe.com.au/cart/
+16:59:13	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=15059
+16:59:13	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=15059 to https://boxsafe.com.au/cart/
+16:59:21	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=15045
+16:59:21	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=15045 to https://boxsafe.com.au/cart/
+16:59:32	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=14630
+16:59:32	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=14630 to https://boxsafe.com.au/cart/
+16:59:40	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=14576
+16:59:40	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=14576 to https://boxsafe.com.au/cart/
+16:59:47	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=14518
+16:59:47	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=14518 to https://boxsafe.com.au/cart/
+16:59:55	Warning: 	Found for https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=14512
+16:59:55	Warning: 	File has moved from https://boxsafe.com.au/product-category/boxing-official-courses-and-licenses/?add-to-cart=14512 to https://boxsafe.com.au/cart/
+16:59:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=12124
+16:59:55	Warning: 	File has moved from https://boxsafe.com.au/?p=12124 to https://boxsafe.com.au/concussion/
+16:59:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=15714
+16:59:55	Warning: 	File has moved from https://boxsafe.com.au/?p=15714 to https://boxsafe.com.au/elementor-15714/
+16:59:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=64
+16:59:55	Warning: 	File has moved from https://boxsafe.com.au/?p=64 to https://boxsafe.com.au/contact-us/
+16:59:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=98
+16:59:55	Warning: 	File has moved from https://boxsafe.com.au/?p=98 to https://boxsafe.com.au/about-us/
+16:59:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=1773
+16:59:55	Warning: 	File has moved from https://boxsafe.com.au/?p=1773 to https://boxsafe.com.au/faq/
+16:59:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=1995
+16:59:55	Warning: 	File has moved from https://boxsafe.com.au/?p=1995 to https://boxsafe.com.au/policies/
+16:59:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11435
+16:59:55	Warning: 	File has moved from https://boxsafe.com.au/?p=11435 to https://boxsafe.com.au/scoresafe-preview/
+16:59:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11161
+16:59:55	Warning: 	File has moved from https://boxsafe.com.au/?p=11161 to https://boxsafe.com.au/equipment/
+16:59:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16144
+16:59:55	Warning: 	File has moved from https://boxsafe.com.au/?p=16144 to https://boxsafe.com.au/boxsafe-training-seminars/
+16:59:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=2605
+16:59:55	Warning: 	File has moved from https://boxsafe.com.au/?p=2605 to https://boxsafe.com.au/sign-up/
+16:59:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=2611
+16:59:55	Warning: 	File has moved from https://boxsafe.com.au/?p=2611 to https://boxsafe.com.au/log-in/
+16:59:56	Warning: 	Found for https://boxsafe.com.au/product-category/official/?add-to-cart=5497
+16:59:56	Warning: 	File has moved from https://boxsafe.com.au/product-category/official/?add-to-cart=5497 to https://boxsafe.com.au/cart/
+17:00:08	Warning: 	Found for https://boxsafe.com.au/product-category/fighter-registration/?add-to-cart=4406
+17:00:08	Warning: 	File has moved from https://boxsafe.com.au/product-category/fighter-registration/?add-to-cart=4406 to https://boxsafe.com.au/cart/
+17:00:18	Warning: 	Found for https://boxsafe.com.au/product-category/fighter-registration/?add-to-cart=3734
+17:00:18	Warning: 	File has moved from https://boxsafe.com.au/product-category/fighter-registration/?add-to-cart=3734 to https://boxsafe.com.au/cart/
+17:00:26	Warning: 	Found for https://boxsafe.com.au/product-category/fighter-registration/?add-to-cart=3735
+17:00:26	Warning: 	File has moved from https://boxsafe.com.au/product-category/fighter-registration/?add-to-cart=3735 to https://boxsafe.com.au/cart/
+17:00:33	Warning: 	Found for https://boxsafe.com.au/product-category/fighter-registration/?add-to-cart=4404
+17:00:33	Warning: 	File has moved from https://boxsafe.com.au/product-category/fighter-registration/?add-to-cart=4404 to https://boxsafe.com.au/cart/
+17:00:34	Warning: 	Found for https://boxsafe.com.au/product-category/fighter-registration/?add-to-cart=22169
+17:00:34	Warning: 	File has moved from https://boxsafe.com.au/product-category/fighter-registration/?add-to-cart=22169 to https://boxsafe.com.au/cart/
+17:00:34	Warning: 	Found for https://boxsafe.com.au/product-category/fighter-registration/?add-to-cart=14630
+17:00:34	Warning: 	File has moved from https://boxsafe.com.au/product-category/fighter-registration/?add-to-cart=14630 to https://boxsafe.com.au/cart/
+17:00:36	Warning: 	Found for https://boxsafe.com.au/product-category/trainer/?add-to-cart=14518
+17:00:36	Warning: 	File has moved from https://boxsafe.com.au/product-category/trainer/?add-to-cart=14518 to https://boxsafe.com.au/cart/
+17:00:36	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=6146
+17:00:36	Warning: 	File has moved from https://boxsafe.com.au/?p=6146 to https://boxsafe.com.au/boxing-officials-pathway/
+17:00:36	Error: 	"Not Found" (404) at link https://boxsafe.com.au/wp-content/uploads/elementor/css/post-3465.css?ver=6.7.0 (from https://boxsafe.com.au/event/masters-boxing-victoria-event/)
+17:00:36	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11321
+17:00:36	Warning: 	File has moved from https://boxsafe.com.au/?p=11321 to https://boxsafe.com.au/event/masters-boxing-victoria-event/
+17:01:46	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11316
+17:01:46	Warning: 	File has moved from https://boxsafe.com.au/?p=11316 to https://boxsafe.com.au/event/vabl-novice-amateur-event/
+17:02:23	Warning: 	Found for https://boxsafe.com.au/?tec-tc-cart=redirect
+17:02:23	Warning: 	File has moved from https://boxsafe.com.au/?tec-tc-cart=redirect to https://boxsafe.com.au/tickets-checkout/
+17:02:35	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11326
+17:02:35	Warning: 	File has moved from https://boxsafe.com.au/?p=11326 to https://boxsafe.com.au/event/aabli-australian-titles/
+17:02:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11323
+17:02:55	Warning: 	File has moved from https://boxsafe.com.au/?p=11323 to https://boxsafe.com.au/event/vabl-open-tournament-6/
+17:03:03	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11330
+17:03:03	Warning: 	File has moved from https://boxsafe.com.au/?p=11330 to https://boxsafe.com.au/event/vabl-corporate-event-4/
+17:03:19	Warning: 	Found for https://boxsafe.com.au/product-category/anaba/?add-to-cart=4404
+17:03:19	Warning: 	File has moved from https://boxsafe.com.au/product-category/anaba/?add-to-cart=4404 to https://boxsafe.com.au/cart/
+17:03:24	Warning: 	Found for https://boxsafe.com.au/product-category/mbv/?add-to-cart=22169
+17:03:24	Warning: 	File has moved from https://boxsafe.com.au/product-category/mbv/?add-to-cart=22169 to https://boxsafe.com.au/cart/
+17:03:32	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=22169
+17:03:32	Warning: 	File has moved from https://boxsafe.com.au/?p=22169 to https://boxsafe.com.au/product/mbv-competitor-registration-45-years/
+17:04:25	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16748
+17:04:25	Warning: 	File has moved from https://boxsafe.com.au/?p=16748 to https://boxsafe.com.au/product/vabl-national-trainer-accreditation-course-and-certification/
+17:04:25	Error: 	"Not Found" (404) at link https://boxsafe.com.au/elementor-2789/?my_courses_status=complete (from https://boxsafe.com.au/product/vabl-national-trainer-accreditation-course-and-certification/)
+17:04:33	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16746
+17:04:33	Warning: 	File has moved from https://boxsafe.com.au/?p=16746 to https://boxsafe.com.au/product/vabl-national-judge-time-keeper-accreditation-course-and-certification/
+17:06:40	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=5952
+17:06:40	Warning: 	File has moved from https://boxsafe.com.au/?p=5952 to https://boxsafe.com.au/upcoming-boxing-events-australia/
+17:06:54	Error: 	"Not Found" (404) at link https://boxsafe.com.au/events/list/?pagename=upcoming-boxing-events-australia&shortcode=f0f6c8f4&eventDisplay=past (from https://boxsafe.com.au/upcoming-boxing-events-australia/)
+17:06:54	Error: 	"Not Found" (404) at link https://boxsafe.com.au/events/list/?pagename=upcoming-boxing-events-australia&shortcode=f0f6c8f4 (from https://boxsafe.com.au/upcoming-boxing-events-australia/)
+17:06:54	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=1738
+17:06:54	Warning: 	File has moved from https://boxsafe.com.au/?p=1738 to https://boxsafe.com.au/browse-courses/
+17:06:54	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=2789
+17:06:54	Warning: 	File has moved from https://boxsafe.com.au/?p=2789 to https://boxsafe.com.au/my-boxing-courses/
+17:06:54	Warning: 	Retry after error 500 (Internal Server Error) at link https://boxsafe.com.au/my-account/lost-password/ (from https://boxsafe.com.au/my-boxing-courses/)
+17:06:54	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=3
+17:06:54	Warning: 	File has moved from https://boxsafe.com.au/?p=3 to https://boxsafe.com.au/privacy-policy/
+17:06:54	Error: 	"Not Found" (404) at link https://boxsafe.com.au/privacy-policy/BoxSafe_Privacy_Policy.pdf (from https://boxsafe.com.au/privacy-policy/)
+17:06:54	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=635
+17:06:54	Warning: 	File has moved from https://boxsafe.com.au/?p=635 to https://boxsafe.com.au/terms-and-conditions/
+17:06:54	Error: 	"Not Found" (404) at link https://boxsafe.com.au/terms-and-conditions/BoxSafe_Terms_and_Conditions.pdf (from https://boxsafe.com.au/terms-and-conditions/)
+17:06:54	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://boxsafe.com.au/xmlrpc.php?rsd (from https://boxsafe.com.au/)
+17:07:51	Warning: 	Moved Permanently for https://boxsafe.com.au/?post_type=tribe_events&eventDisplay=day&paged=2
+17:07:51	Warning: 	File has moved from https://boxsafe.com.au/?post_type=tribe_events&eventDisplay=day&paged=2 to https://boxsafe.com.au/page/2/?post_type=tribe_events&eventDisplay=day
+17:15:38	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11332
+17:15:38	Warning: 	File has moved from https://boxsafe.com.au/?p=11332 to https://boxsafe.com.au/event/vabl-open-tournament-7/
+17:15:38	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=6384
+17:15:38	Warning: 	File has moved from https://boxsafe.com.au/?p=6384 to https://boxsafe.com.au/event/vabl-australia-vs-scottland/
+17:15:47	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11334
+17:15:47	Warning: 	File has moved from https://boxsafe.com.au/?p=11334 to https://boxsafe.com.au/event/vabl-country-event-3/
+17:15:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=22111
+17:15:55	Warning: 	File has moved from https://boxsafe.com.au/?p=22111 to https://boxsafe.com.au/event/iba-sanctioned-event-oceanic-titles/
+17:16:23	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=7780
+17:16:23	Warning: 	File has moved from https://boxsafe.com.au/?p=7780 to https://boxsafe.com.au/anaba-officials-expression-of-interest/
+17:16:23	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=7804
+17:16:23	Warning: 	File has moved from https://boxsafe.com.au/?p=7804 to https://boxsafe.com.au/anaba-fighters-expression-of-interest/
+17:16:23	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=7807
+17:16:23	Warning: 	File has moved from https://boxsafe.com.au/?p=7807 to https://boxsafe.com.au/vabl-officials-expression-of-interest/
+17:16:23	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=7876
+17:16:23	Warning: 	File has moved from https://boxsafe.com.au/?p=7876 to https://boxsafe.com.au/vabl-competitors-expression-of-interest/
+17:16:26	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=270
+17:16:26	Warning: 	File has moved from https://boxsafe.com.au/?p=270 to https://boxsafe.com.au/product/amateur-trainer/
+17:16:34	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=2985
+17:16:34	Warning: 	File has moved from https://boxsafe.com.au/?p=2985 to https://boxsafe.com.au/product/elite-judge-time-keeper/
+17:17:00	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=3452
+17:17:00	Warning: 	File has moved from https://boxsafe.com.au/?p=3452 to https://boxsafe.com.au/product/novice-amateur-judge-time-keeper/
+17:17:04	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=15347
+17:17:04	Warning: 	File has moved from https://boxsafe.com.au/?p=15347 to https://boxsafe.com.au/product/boxsafe-medical-refresher/
+17:17:15	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=5497
+17:17:15	Warning: 	File has moved from https://boxsafe.com.au/?p=5497 to https://boxsafe.com.au/product/anaba-judge-time-keeper-course-and-licence/
+17:17:32	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=9707
+17:17:32	Warning: 	File has moved from https://boxsafe.com.au/?p=9707 to https://boxsafe.com.au/product/mbv-judge-time-keeper-course-license/
+17:17:44	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=5405
+17:17:44	Warning: 	File has moved from https://boxsafe.com.au/?p=5405 to https://boxsafe.com.au/product/anaba-trainer-course-licence/
+17:18:09	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=9681
+17:18:09	Warning: 	File has moved from https://boxsafe.com.au/?p=9681 to https://boxsafe.com.au/product/mbv-trainers-course-license/
+17:18:31	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16672
+17:18:31	Warning: 	File has moved from https://boxsafe.com.au/?p=16672 to https://boxsafe.com.au/product/a-a-b-l-i-judge-time-keeper-course-and-certification/
+17:18:35	Warning: 	Moved Permanently for https://boxsafe.com.au/course/aabli-judge-time-keeper/
+17:18:35	Warning: 	File has moved from https://boxsafe.com.au/course/aabli-judge-time-keeper/ to https://boxsafe.com.au/course/sunstate-national-judge-time-keeper-accreditation/
+17:18:39	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16665
+17:18:39	Warning: 	File has moved from https://boxsafe.com.au/?p=16665 to https://boxsafe.com.au/product/a-a-b-l-i-trainer-course-and-certification/
+17:18:43	Warning: 	Moved Permanently for https://boxsafe.com.au/course/aabli-trainer/
+17:18:43	Warning: 	File has moved from https://boxsafe.com.au/course/aabli-trainer/ to https://boxsafe.com.au/course/sunstate-national-trainer-acreditation/
+17:18:48	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=15059
+17:18:48	Warning: 	File has moved from https://boxsafe.com.au/?p=15059 to https://boxsafe.com.au/product/vabl-representative/
+17:19:09	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=15045
+17:19:09	Warning: 	File has moved from https://boxsafe.com.au/?p=15045 to https://boxsafe.com.au/product/vabl-tournament-coordinator/
+17:19:29	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=14630
+17:19:29	Warning: 	File has moved from https://boxsafe.com.au/?p=14630 to https://boxsafe.com.au/product/sunstate-child-competitor-registration/
+17:19:52	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=14576
+17:19:52	Warning: 	File has moved from https://boxsafe.com.au/?p=14576 to https://boxsafe.com.au/product/sunstate-adult-competitor-registration/
+17:20:03	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=14518
+17:20:03	Warning: 	File has moved from https://boxsafe.com.au/?p=14518 to https://boxsafe.com.au/product/sunstate-trainer-course-and-certification/
+17:20:12	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=14512
+17:20:12	Warning: 	File has moved from https://boxsafe.com.au/?p=14512 to https://boxsafe.com.au/product/sunstate-judge-time-keeper-course-and-certification/
+17:20:32	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=4406
+17:20:32	Warning: 	File has moved from https://boxsafe.com.au/?p=4406 to https://boxsafe.com.au/product/anaba-adult-fighter-registration-over-18/
+17:20:48	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=3734
+17:20:48	Warning: 	File has moved from https://boxsafe.com.au/?p=3734 to https://boxsafe.com.au/product/adult-fighter-registration-over-18/
+17:20:56	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=3735
+17:20:56	Warning: 	File has moved from https://boxsafe.com.au/?p=3735 to https://boxsafe.com.au/product/child-fighter-registration/
+17:21:03	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=4404
+17:21:03	Warning: 	File has moved from https://boxsafe.com.au/?p=4404 to https://boxsafe.com.au/product/anaba-child-fighter-registration/
+17:21:10	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11313
+17:21:10	Warning: 	File has moved from https://boxsafe.com.au/?p=11313 to https://boxsafe.com.au/event/vabl-open-tournament/
+17:23:40	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=3572
+17:23:40	Warning: 	File has moved from https://boxsafe.com.au/?p=3572 to https://boxsafe.com.au/venue/seec-south-eastern-entertainment-centre/
+17:26:47	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=3516
+17:26:47	Warning: 	File has moved from https://boxsafe.com.au/?p=3516 to https://boxsafe.com.au/organizer/nick-lundh/
+17:26:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=3515
+17:26:55	Warning: 	File has moved from https://boxsafe.com.au/?p=3515 to https://boxsafe.com.au/venue/lilydale-community-youth-club/
+17:28:19	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11328
+17:28:19	Warning: 	File has moved from https://boxsafe.com.au/?p=11328 to https://boxsafe.com.au/venue/west-gosford/
+17:28:33	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11324
+17:28:33	Warning: 	File has moved from https://boxsafe.com.au/?p=11324 to https://boxsafe.com.au/venue/st-kilda/
+17:28:58	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=3548
+17:28:58	Warning: 	File has moved from https://boxsafe.com.au/?p=3548 to https://boxsafe.com.au/venue/melbourne-pavilion/
+17:30:03	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=22161
+17:30:03	Warning: 	File has moved from https://boxsafe.com.au/?p=22161 to https://boxsafe.com.au/course/mbv-competitor-registration/
+17:30:38	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=173
+17:30:38	Warning: 	File has moved from https://boxsafe.com.au/?p=173 to https://boxsafe.com.au/cart/
+17:30:38	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16688
+17:30:38	Warning: 	File has moved from https://boxsafe.com.au/?p=16688 to https://boxsafe.com.au/course/vabl-national-trainer-accrediation/
+17:32:42	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=416
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/?p=416 to https://boxsafe.com.au/cart-2/
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=484e01517b1395d6f8cce27fcc459cbf&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=484e01517b1395d6f8cce27fcc459cbf&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=93f8e322bb6adffeeb33a85d95c52316&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=93f8e322bb6adffeeb33a85d95c52316&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=29d1165b61ef7dc62cecf00ea22b1d93&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=29d1165b61ef7dc62cecf00ea22b1d93&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=39059724f73a9969845dfe4146c5660e&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=39059724f73a9969845dfe4146c5660e&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=275d7fb2fd45098ad5c3ece2ed4a2824&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=275d7fb2fd45098ad5c3ece2ed4a2824&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=437d432e126269160c1cc4e0fc72f1ee&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=437d432e126269160c1cc4e0fc72f1ee&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=e96b07acb4f9f90f7038004ece14038f&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=e96b07acb4f9f90f7038004ece14038f&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=ca6ab34959489659f8c3776aaf1f8efd&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=ca6ab34959489659f8c3776aaf1f8efd&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=68cfb8f8a7e88613b34afac16f83875d&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=68cfb8f8a7e88613b34afac16f83875d&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=f9eaa8a65bb8e62b3e6d27979b4c6815&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=f9eaa8a65bb8e62b3e6d27979b4c6815&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=c881617af0ae19b38dd0546548cd53ad&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=c881617af0ae19b38dd0546548cd53ad&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=fb49c7f398e2f14cadda7fd635df6bb0&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=fb49c7f398e2f14cadda7fd635df6bb0&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=fc42bad715bcb9767ddd95a239552434&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=fc42bad715bcb9767ddd95a239552434&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=7ce7fe98a64dd1ef509fedb677fcea5a&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=7ce7fe98a64dd1ef509fedb677fcea5a&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=f589a241141007eb225cd68eed7bc06c&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=f589a241141007eb225cd68eed7bc06c&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=bdcc41211aa62a8f10f26d1a2d1727bf&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=bdcc41211aa62a8f10f26d1a2d1727bf&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=ae87a54e183c075c494c4d397d126a66&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=ae87a54e183c075c494c4d397d126a66&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:42	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=9d752cb08ef466fc480fba981cfa44a1&_wpnonce=830cf58a8e
+17:32:42	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=9d752cb08ef466fc480fba981cfa44a1&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:43	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=dc0c398086fee58f9d64e1e47aa4e586&_wpnonce=830cf58a8e
+17:32:43	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=dc0c398086fee58f9d64e1e47aa4e586&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:43	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=f0b875eb6cff6fd5f491e6b6521c7510&_wpnonce=830cf58a8e
+17:32:43	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=f0b875eb6cff6fd5f491e6b6521c7510&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:43	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=1357bcf2d4321bb322e9ae46a462ef4a&_wpnonce=830cf58a8e
+17:32:43	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=1357bcf2d4321bb322e9ae46a462ef4a&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:43	Warning: 	Found for https://boxsafe.com.au/cart-2/?remove_item=3d8e03e8b133b16f13a586f0c01b6866&_wpnonce=830cf58a8e
+17:32:43	Warning: 	File has moved from https://boxsafe.com.au/cart-2/?remove_item=3d8e03e8b133b16f13a586f0c01b6866&_wpnonce=830cf58a8e to http://boxsafe.com.au/cart-2/?removed_item=1
+17:32:43	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16721
+17:32:43	Warning: 	File has moved from https://boxsafe.com.au/?p=16721 to https://boxsafe.com.au/course/vabl-national-judge-time-keeper-accreditation/
+17:34:14	Warning: 	Retry after error 500 (Internal Server Error) at link https://boxsafe.com.au/my-account/lost-password/ (from https://boxsafe.com.au/my-boxing-courses/)
+17:34:14	Warning: 	Moved Permanently for https://boxsafe.com.au/?post_type=tribe_events&eventDisplay=day&paged=3
+17:34:14	Warning: 	File has moved from https://boxsafe.com.au/?post_type=tribe_events&eventDisplay=day&paged=3 to https://boxsafe.com.au/page/3/?post_type=tribe_events&eventDisplay=day
+17:34:16	Warning: 	Moved Permanently for https://boxsafe.com.au/page/2/?post_type=tribe_events%26eventDisplay=day
+17:34:16	Warning: 	File has moved from https://boxsafe.com.au/page/2/?post_type=tribe_events%26eventDisplay=day to https://boxsafe.com.au/page/2/?post_type=tribe_events%26eventDisplay%3Dday
+17:37:20	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11292
+17:37:20	Warning: 	File has moved from https://boxsafe.com.au/?p=11292 to https://boxsafe.com.au/event/world-youth-games-montenegro/
+17:40:50	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11301
+17:40:50	Warning: 	File has moved from https://boxsafe.com.au/?p=11301 to https://boxsafe.com.au/event/vabl-country-event-2/
+17:52:43	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=3587
+17:52:43	Warning: 	File has moved from https://boxsafe.com.au/?p=3587 to https://boxsafe.com.au/event/vabl-open-tournament-3/
+17:52:53	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=3589
+17:52:53	Warning: 	File has moved from https://boxsafe.com.au/?p=3589 to https://boxsafe.com.au/event/vabl-open-tournament-4/
+17:53:09	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=3597
+17:53:09	Warning: 	File has moved from https://boxsafe.com.au/?p=3597 to https://boxsafe.com.au/event/vabl-open-tournament-5/
+17:53:23	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=3601
+17:53:23	Warning: 	File has moved from https://boxsafe.com.au/?p=3601 to https://boxsafe.com.au/event/vabl-kids-novice-competition/
+17:53:41	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=3607
+17:53:41	Warning: 	File has moved from https://boxsafe.com.au/?p=3607 to https://boxsafe.com.au/event/vabl-country-event/
+17:53:41	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11318
+17:53:41	Warning: 	File has moved from https://boxsafe.com.au/?p=11318 to https://boxsafe.com.au/event/feliks-stamm-international-poland/
+17:54:02	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=6382
+17:54:02	Warning: 	File has moved from https://boxsafe.com.au/?p=6382 to https://boxsafe.com.au/event/vabl-pro-am-event/
+17:54:02	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=14552
+17:54:02	Warning: 	File has moved from https://boxsafe.com.au/?p=14552 to https://boxsafe.com.au/event/vabl-novice-amateur-contest/
+17:54:12	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11298
+17:54:12	Warning: 	File has moved from https://boxsafe.com.au/?p=11298 to https://boxsafe.com.au/event/vabl-corporate-event-3/
+17:54:29	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=6385
+17:54:29	Warning: 	File has moved from https://boxsafe.com.au/?p=6385 to https://boxsafe.com.au/venue/melbourne/
+17:54:33	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11335
+17:54:33	Warning: 	File has moved from https://boxsafe.com.au/?p=11335 to https://boxsafe.com.au/venue/bundalong/
+17:55:15	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11297
+17:55:15	Warning: 	File has moved from https://boxsafe.com.au/?p=11297 to https://boxsafe.com.au/organizer/iba/
+17:55:35	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=22112
+17:55:35	Warning: 	File has moved from https://boxsafe.com.au/?p=22112 to https://boxsafe.com.au/venue/tahiti-french-polynesie/
+17:55:43	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=1830
+17:55:43	Warning: 	File has moved from https://boxsafe.com.au/?p=1830 to https://boxsafe.com.au/course/amateur-trainer-course/
+17:57:44	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=2938
+17:57:44	Warning: 	File has moved from https://boxsafe.com.au/?p=2938 to https://boxsafe.com.au/course/elite-judge-time-keeper/
+17:59:15	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=15311
+17:59:15	Warning: 	File has moved from https://boxsafe.com.au/?p=15311 to https://boxsafe.com.au/course/boxsafe-medical-course/
+17:59:53	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=5167
+17:59:53	Warning: 	File has moved from https://boxsafe.com.au/?p=5167 to https://boxsafe.com.au/course/anaba-judge-time-keeper-course/
+18:00:55	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=9714
+18:00:55	Warning: 	File has moved from https://boxsafe.com.au/?p=9714 to https://boxsafe.com.au/course/mbv-judge-time-keeper/
+18:02:27	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=5194
+18:02:27	Warning: 	File has moved from https://boxsafe.com.au/?p=5194 to https://boxsafe.com.au/course/anaba-trainer-course/
+18:02:27	Warning: 	Found for https://boxsafe.com.au/modules/training-styles-and-definitions/?course_id=5194
+18:02:27	Warning: 	File has moved from https://boxsafe.com.au/modules/training-styles-and-definitions/?course_id=5194 to https://boxsafe.com.au/lesson/general-definitions/
+18:02:42	Warning: 	Found for https://boxsafe.com.au/modules/training-methods/?course_id=5194
+18:02:42	Warning: 	File has moved from https://boxsafe.com.au/modules/training-methods/?course_id=5194 to https://boxsafe.com.au/lesson/training-amateur-boxers/
+18:04:03	Warning: 	Found for https://boxsafe.com.au/modules/advanced-training/?course_id=5194
+18:04:03	Warning: 	File has moved from https://boxsafe.com.au/modules/advanced-training/?course_id=5194 to https://boxsafe.com.au/lesson/isometric-training/
+18:04:56	Warning: 	Found for https://boxsafe.com.au/modules/training-notes/?course_id=5194
+18:04:56	Warning: 	File has moved from https://boxsafe.com.au/modules/training-notes/?course_id=5194 to https://boxsafe.com.au/lesson/motivation/
+18:05:18	Warning: 	Found for https://boxsafe.com.au/modules/competition-procedures/?course_id=5194
+18:05:18	Warning: 	File has moved from https://boxsafe.com.au/modules/competition-procedures/?course_id=5194 to https://boxsafe.com.au/lesson/prior-to-the-competition/
+18:05:48	Warning: 	Found for https://boxsafe.com.au/modules/additional-aspects/?course_id=5194
+18:05:48	Warning: 	File has moved from https://boxsafe.com.au/modules/additional-aspects/?course_id=5194 to https://boxsafe.com.au/lesson/medical/
+18:06:19	Warning: 	Found for https://boxsafe.com.au/modules/individualisation/?course_id=5194
+18:06:19	Warning: 	File has moved from https://boxsafe.com.au/modules/individualisation/?course_id=5194 to https://boxsafe.com.au/lesson/individualising-training-programs/
+18:06:35	Warning: 	Found for https://boxsafe.com.au/modules/quiz-and-license-form/?course_id=5194
+18:06:35	Warning: 	File has moved from https://boxsafe.com.au/modules/quiz-and-license-form/?course_id=5194 to https://boxsafe.com.au/lesson/concussion-2/
+18:07:05	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=9651
+18:07:05	Warning: 	File has moved from https://boxsafe.com.au/?p=9651 to https://boxsafe.com.au/course/mbv-trainer-course/
+18:08:39	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=15049
+18:08:39	Warning: 	File has moved from https://boxsafe.com.au/?p=15049 to https://boxsafe.com.au/course/vabl-representative/
+18:09:24	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=14982
+18:09:24	Warning: 	File has moved from https://boxsafe.com.au/?p=14982 to https://boxsafe.com.au/course/vabl-tournament-coordinator/
+18:10:25	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=14638
+18:10:25	Warning: 	File has moved from https://boxsafe.com.au/?p=14638 to https://boxsafe.com.au/sunstate-child-competitor-registration/
+18:10:26	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=14921
+18:10:26	Warning: 	File has moved from https://boxsafe.com.au/?p=14921 to https://boxsafe.com.au/course/sunstate-competitor-registration/
+18:10:42	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=13636
+18:10:42	Warning: 	File has moved from https://boxsafe.com.au/?p=13636 to https://boxsafe.com.au/course/sunstate-trainer/
+18:12:37	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=13514
+18:12:37	Warning: 	File has moved from https://boxsafe.com.au/?p=13514 to https://boxsafe.com.au/course/sunstate-judge-time-keeper/
+18:13:52	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=14894
+18:13:52	Warning: 	File has moved from https://boxsafe.com.au/?p=14894 to https://boxsafe.com.au/course/anaba-competitor-registration/
+18:14:08	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=14863
+18:14:08	Warning: 	File has moved from https://boxsafe.com.au/?p=14863 to https://boxsafe.com.au/course/vabl-fighter-registration/
+18:14:23	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=14876
+18:14:23	Warning: 	File has moved from https://boxsafe.com.au/?p=14876 to https://boxsafe.com.au/course/vabl-child-competitor-registration/
+18:14:38	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=14899
+18:14:38	Warning: 	File has moved from https://boxsafe.com.au/?p=14899 to https://boxsafe.com.au/course/anaba-child-competitor-registration/
+18:14:52	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=11314
+18:14:52	Warning: 	File has moved from https://boxsafe.com.au/?p=11314 to https://boxsafe.com.au/venue/sunshine/
+18:31:06	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=14563
+18:31:06	Warning: 	File has moved from https://boxsafe.com.au/?p=14563 to https://boxsafe.com.au/tickets-checkout/
+18:36:09	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=21285
+18:36:09	Warning: 	File has moved from https://boxsafe.com.au/?p=21285 to https://boxsafe.com.au/my-courses/
+18:37:25	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=22162
+18:37:25	Warning: 	File has moved from https://boxsafe.com.au/?p=22162 to https://boxsafe.com.au/lesson/fighter-information-7/
+18:38:02	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=22164
+18:38:02	Warning: 	File has moved from https://boxsafe.com.au/?p=22164 to https://boxsafe.com.au/lesson/bloodwork-files-2/
+18:38:30	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16709
+18:38:30	Warning: 	File has moved from https://boxsafe.com.au/?p=16709 to https://boxsafe.com.au/lesson/stance-and-steps-5/
+18:38:46	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16711
+18:38:46	Warning: 	File has moved from https://boxsafe.com.au/?p=16711 to https://boxsafe.com.au/lesson/basic-and-straight-punches-5/
+18:39:24	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16713
+18:39:24	Warning: 	File has moved from https://boxsafe.com.au/?p=16713 to https://boxsafe.com.au/lesson/hook-punches-5/
+18:40:17	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16715
+18:40:17	Warning: 	File has moved from https://boxsafe.com.au/?p=16715 to https://boxsafe.com.au/lesson/uppercut-punches-5/
+18:40:31	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16717
+18:40:31	Warning: 	File has moved from https://boxsafe.com.au/?p=16717 to https://boxsafe.com.au/lesson/basic-defence-5/
+18:40:47	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16719
+18:40:47	Warning: 	File has moved from https://boxsafe.com.au/?p=16719 to https://boxsafe.com.au/lesson/combinations-and-technique-variations-4/
+18:40:57	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16689
+18:40:57	Warning: 	File has moved from https://boxsafe.com.au/?p=16689 to https://boxsafe.com.au/lesson/general-knowledge-and-definitions-5/
+18:41:26	Warning: 	Moved Permanently for https://boxsafe.com.au/?p=16691
+18:41:26	Warning: 	File has moved from https://boxsafe.com.au/?p=16691 to https://boxsafe.com.au/lesson/equipment-5/
